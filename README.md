@@ -48,12 +48,13 @@ Tabulation:1
 ![WhatsApp Image 2025-12-24 at 21 28 11_1a42a990](https://github.com/user-attachments/assets/ffabb17d-e70e-4cd3-a27c-35abb1282b14)
 
 Cross connection: CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-12-24 at 21 38 39_2aeb77a6](https://github.com/user-attachments/assets/b2fe4c35-29cf-4d33-b880-d8c1bc8ab953)
-![WhatsApp Image 2025-12-24 at 21 38 39_8e709a50](https://github.com/user-attachments/assets/022a5d7a-0e5b-451f-b727-001c44ab134b)
-![WhatsApp Image 2025-12-24 at 21 34 49_0b8770d2](https://github.com/user-attachments/assets/eaf390d4-c296-44f0-9abc-03a110109174)
+![WhatsApp Image 2025-12-24 at 21 38 39_2aeb77a6](https://github.com/user-attachments/assets/b0fd04f7-34e9-4666-b775-227294532143)
+![WhatsApp Image 2025-12-24 at 21 38 39_8e709a50](https://github.com/user-attachments/assets/9b17eb53-886e-44af-8786-c007dbc33168)
+![WhatsApp Image 2025-12-24 at 21 34 49_0b8770d2](https://github.com/user-attachments/assets/1e243087-224b-42ad-ad68-0ec4704d20c5)
 
 Tabulation:2
-![WhatsApp Image 2025-12-24 at 21 35 27_db375b9a](https://github.com/user-attachments/assets/de1e662b-acd4-4afa-ad84-794d5d809e9e)
+![WhatsApp Image 2025-12-24 at 21 35 27_db375b9a](https://github.com/user-attachments/assets/9dffd2c1-1314-4a66-92d7-2b4f85e2997d)
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
